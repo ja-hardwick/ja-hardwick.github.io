@@ -88,3 +88,18 @@ footer {
   color: #666;
   text-align: center;
 }
+
+/* ---------- Profile photo ---------- */
+.profile-photo {
+  text-align: center; /* center the photo */
+  margin-bottom: 2rem; /* spacing below */
+}
+
+.profile-photo img {
+  width: 150px;          /* size of the photo */
+  height: 150px;         /* make square for perfect circle */
+  border-radius: 50%;    /* makes it a circle */
+  object-fit: cover;     /* ensures it crops nicely */
+  border: 3px solid #0645ad; /* optional border */
+}
+
