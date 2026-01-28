@@ -1,17 +1,21 @@
+/* ---------- Base Body ---------- */
 body {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* friendly font */
   max-width: 800px;
   margin: 3rem auto;
   padding: 0 1.25rem;
   line-height: 1.7;
   color: #222;
+  background-color: #f0fff0; /* very light green background */
 }
 
+/* ---------- Header ---------- */
 header h1 {
   font-size: 2.2rem;
   margin-bottom: 1rem;
 }
 
+/* ---------- Navigation ---------- */
 nav a {
   margin-right: 1rem;
   text-decoration: none;
@@ -22,12 +26,47 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/* ---------- Headings ---------- */
 h2 {
   margin-top: 2rem;
+  color: #064520; /* subtle green tint for section headers */
 }
 
+/* ---------- Lists ---------- */
+ul, ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- Images / Figures ---------- */
+figure {
+  margin: 1rem 0;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px; /* optional: slightly rounded corners */
+}
+
+/* ---------- Links ---------- */
+a {
+  color: #0645ad;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Footer ---------- */
 footer {
   margin-top: 4rem;
   font-size: 0.9rem;
   color: #666;
+  text-align: center;
 }
