@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Catchment restoration at landscape scale: Water of Dye, Scotland"
+permalink: /projects/WoD/
+---
+
 # Water of Dye Restoration, NE Scotland 
 
 Rivers, globally, are amongst our most threatened ecosystems with freshwater biodiversity declining faster than any other biome. Efforts to reverse this decline have accelerated, however we need more evidence-led restoration design to work with natural processes to deliver multiple benefits from improve riparian and in-channel habitat quality to downstream flood mitigation.    
