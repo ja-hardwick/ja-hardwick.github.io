@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Project 1: Plant-sediment interactions
+title: "Project 1: Plant-sediment interactions"
 ---
+
 
 # Project 1: Plant-sediment interactions
 
