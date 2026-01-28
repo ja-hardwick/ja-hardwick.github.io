@@ -17,6 +17,8 @@ environmental sciences fieldwork, focusing on how higher education
 institution policies can support—or fail to protect—marginalised
 fieldworkers.
 
-- [Projects](/projects/) – View my current and past research projects
-- [Publications](/publications/) – See my papers and articles
-- [CV](/cv/) – Download or view my curriculum vitae
+# Contact
+- **Email:** [jh136@stir.ac.uk](mailto:jh136@stir.ac.uk)  
+- **Bluesky:** [@jahardwick.bsky.social](https://bsky.app/profile/jahardwick.bsky.social)  
+- **ORCID:** [0000-0002-4431-009X](https://orcid.org/0000-0002-4431-009X)  
+- **LinkedIn:** [James Hardwick](https://www.linkedin.com/in/james-hardwick-9019001bb/)
