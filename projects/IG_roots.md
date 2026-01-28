@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Impatiens glandluifera: roots in the riparian zone"
+permalink: /projects/IG_roots/
+---
+
 # *Impatiens glandluifera* (Himalayan Balsam): roots in the riparian zone
 
 Funded by: The British Society for Geomorphology PGR grant (BSG-2024-19)
