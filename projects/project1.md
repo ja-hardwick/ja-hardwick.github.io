@@ -29,7 +29,7 @@ Funded by: an internal Newcastle University Studentship
     <figcaption>Riverbank site in summer</figcaption>
   </figure>
   <figure style="width:48%;">
-    <img src="/assets/veg_survey.jpg" alt="Vegetation survey">
+    <img src="/assets/veg_surveys.jpg" alt="Vegetation survey">
     <figcaption>Vegetation survey plot</figcaption>
   </figure>
 </div>
