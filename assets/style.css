@@ -100,5 +100,5 @@ footer {
   height: 150px;            /* square for perfect circle */
   border-radius: 50%;       /* makes it circular */
   object-fit: cover;        /* crop image nicely */
-  border: 3px solid #0645ad; /* optional border color */
+  border: 3px solid #000; /* optional border color */
 }
