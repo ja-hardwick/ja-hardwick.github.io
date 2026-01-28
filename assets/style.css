@@ -1,4 +1,4 @@
-/* ---------- Base Body ---------- */
+/* ---------- Body ---------- */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* friendly font */
   max-width: 800px;
@@ -6,11 +6,17 @@ body {
   padding: 0 1.25rem;
   line-height: 1.7;
   color: #222;
-  background-color: #f0fff0; /* very light green background */
+  background-color: #f0fff0; /* very light green */
 }
 
 /* ---------- Header ---------- */
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
 header h1 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* ensure header uses same font */
   font-size: 2.2rem;
   margin-bottom: 1rem;
 }
@@ -51,7 +57,19 @@ figure {
 figure img {
   max-width: 100%;
   height: auto;
-  border-radius: 5px; /* optional: slightly rounded corners */
+  border-radius: 5px;
+}
+
+/* Side-by-side images */
+.flex-images {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.flex-images figure {
+  flex: 0 0 45%;
 }
 
 /* ---------- Links ---------- */
