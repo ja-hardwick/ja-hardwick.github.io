@@ -91,15 +91,14 @@ footer {
 
 /* ---------- Profile photo ---------- */
 .profile-photo {
-  text-align: center; /* center the photo */
-  margin-bottom: 2rem; /* spacing below */
+  text-align: center;       /* center the photo */
+  margin-bottom: 2rem;      /* space below photo */
 }
 
 .profile-photo img {
-  width: 150px;          /* size of the photo */
-  height: 150px;         /* make square for perfect circle */
-  border-radius: 50%;    /* makes it a circle */
-  object-fit: cover;     /* ensures it crops nicely */
-  border: 3px solid #0645ad; /* optional border */
+  width: 150px;             /* adjust size to be smaller */
+  height: 150px;            /* square for perfect circle */
+  border-radius: 50%;       /* makes it circular */
+  object-fit: cover;        /* crop image nicely */
+  border: 3px solid #0645ad; /* optional border color */
 }
-
