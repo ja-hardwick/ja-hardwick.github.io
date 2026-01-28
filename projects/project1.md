@@ -23,4 +23,16 @@ Funded by: an internal Newcastle University Studentship
 - **Seed dispersal modelling** provided first estimates of potential *I. glandulifera* dispersal distances.  
 - At the reach scale, ***I. glandulifera* may increase sediment yield and topographic change**. 
 
+<div style="margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+  <figure style="width:48%;">
+    <img src="/assets/HB_summer.jpg" alt="Riverbank with Himalayan Balsam">
+    <figcaption>Riverbank site in summer</figcaption>
+  </figure>
+  <figure style="width:48%;">
+    <img src="/assets/veg_survey.jpg" alt="Vegetation survey">
+    <figcaption>Vegetation survey plot</figcaption>
+  </figure>
+</div>
+
+
 [← Back to Projects](/projects/)
