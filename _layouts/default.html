@@ -10,10 +10,14 @@
 <header>
   <div class="header-flex">
     <h1>{{ site.title }}</h1>
+
+    {% if page.url == "/" %}
     <div class="profile-photo">
-      <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Dr James Hardwick">
+      <img src="{{ '/assets/profile_pic.jpg' | relative_url }}" alt="Dr James Hardwick">
     </div>
+    {% endif %}
   </div>
+
   <nav>
     <a href="{{ '/' | relative_url }}">Home</a>
     <a href="{{ '/projects/' | relative_url }}">Projects</a>
