@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PhD project: The fluvial biogeomorphic impacts and feedbacks of riparian invasive non-native plant species"
-permalink: /projects/project1/
+permalink: /projects/PhD/
 ---
 
 # The fluvial biogeomorphic impacts and feedbacks of riparian invasive non-native plant species
