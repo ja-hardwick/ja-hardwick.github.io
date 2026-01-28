@@ -13,10 +13,9 @@ body {
 header {
   position: relative;   /* needed for absolute profile photo */
   margin-bottom: 2rem;
-  padding-left: 70px;   /* prevent photo overlapping title */
 }
 
-/* Flex layout for title + photo (if inline) */
+/* Flex layout for title + nav */
 .header-flex {
   display: flex;
   align-items: center;      
@@ -29,14 +28,14 @@ header {
   font-size: 2.2rem;
 }
 
-/* ---------- Homepage header photo ---------- */
+/* ---------- Homepage header photo (right side, larger) ---------- */
 header .profile-photo {
   position: absolute;       
   top: 50%;                 
-  left: 0;                  
+  right: 0;                 /* right-aligned */
   transform: translateY(-50%); 
-  width: 60px;
-  height: 60px;
+  width: 120px;             /* larger */
+  height: 120px;
   border-radius: 50%;
   overflow: hidden;
   border: 3px solid #000;
@@ -93,7 +92,6 @@ figure img {
   border-radius: 5px;
 }
 
-/* Side-by-side images */
 .flex-images {
   display: flex;
   gap: 1rem;
@@ -122,19 +120,8 @@ footer {
   text-align: center;
 }
 
-/* ---------- Standalone profile photo in body ---------- */
-.profile-photo {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.profile-photo img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid #000;
-}
+/* ---------- Standalone profile photo removed (only used if you want in body) ---------- */
+/* If you don't want a black circle on other pages, just remove this CSS or only use in specific pages */
 
 /* ---------- Responsive adjustments ---------- */
 @media screen and (max-width: 600px) {
@@ -144,19 +131,14 @@ footer {
   }
 
   header .profile-photo {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     top: 50%;
-    left: 0;
+    right: 0;
     transform: translateY(-50%);
   }
 
   .flex-images figure {
     flex: 0 0 100%;
-  }
-
-  .profile-photo img {
-    width: 120px;
-    height: 120px;
   }
 }
