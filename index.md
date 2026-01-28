@@ -2,10 +2,7 @@
 layout: default
 title: "Home"
 ---
-<div class="profile-photo">
-  <img src="{{ '/assets/profile_pic.jpg' | relative_url }}" alt="Dr James Hardwick">
-</div>
-
+# About:
 I am an Earth scientist whose research explores how ecological processes
 shape and interact with Earth surface landforms, particularly in fluvial
 environments. I use a combination of field data and modelling approaches
