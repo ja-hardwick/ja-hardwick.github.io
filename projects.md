@@ -5,4 +5,4 @@ title: Projects
 
 ## Current Projects
 
-- [Project 1: Plant-sediment interactions](/_projects/project1.html)  
+- [Project 1: Plant-sediment interactions](/projects/project1/)
