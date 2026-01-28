@@ -1,6 +1,6 @@
 /* ---------- Body ---------- */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* friendly font */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   max-width: 800px;
   margin: 3rem auto;
   padding: 0 1.25rem;
@@ -11,28 +11,42 @@ body {
 
 /* ---------- Header ---------- */
 header {
+  position: relative;   /* needed for absolute profile photo */
   margin-bottom: 2rem;
+  padding-left: 70px;   /* prevent photo overlapping title */
 }
 
-/* Flex layout for inline photo + name */
+/* Flex layout for title + photo (if inline) */
 .header-flex {
   display: flex;
-  align-items: center;      /* vertically center name and photo */
-  justify-content: center;  /* horizontally center header */
-  gap: 1rem;                /* space between name and photo */
+  align-items: center;      
+  justify-content: center;  
+  gap: 1rem;                
 }
 
 .header-flex h1 {
-  margin: 0;                /* remove default heading margin */
+  margin: 0;                
   font-size: 2.2rem;
 }
 
-.header-flex .profile-photo img {
-  width: 60px;              /* smaller for inline display */
+/* ---------- Homepage header photo ---------- */
+header .profile-photo {
+  position: absolute;       
+  top: 50%;                 
+  left: 0;                  
+  transform: translateY(-50%); 
+  width: 60px;
   height: 60px;
-  border-radius: 50%;       /* makes it circular */
-  object-fit: cover;        /* crops image nicely */
-  border: 3px solid #000;   /* black outline */
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid #000;
+  z-index: 10;              
+}
+
+header .profile-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* ---------- Navigation ---------- */
@@ -54,7 +68,7 @@ nav a:hover {
 /* ---------- Headings ---------- */
 h2 {
   margin-top: 2rem;
-  color: #064520; /* subtle green tint for section headers */
+  color: #064520;
 }
 
 /* ---------- Lists ---------- */
@@ -108,34 +122,37 @@ footer {
   text-align: center;
 }
 
-/* ---------- Profile photo for standalone display ---------- */
+/* ---------- Standalone profile photo in body ---------- */
 .profile-photo {
-  text-align: center;       /* center the photo */
-  margin-bottom: 2rem;      /* space below photo */
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 .profile-photo img {
-  width: 150px;             /* adjust size for standalone photo */
-  height: 150px;            /* square for perfect circle */
-  border-radius: 50%;       /* makes it circular */
-  object-fit: cover;        /* crop image nicely */
-  border: 3px solid #000;   /* black outline */
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #000;
 }
 
 /* ---------- Responsive adjustments ---------- */
 @media screen and (max-width: 600px) {
   .header-flex {
-    flex-direction: column;  /* stack name and photo on small screens */
+    flex-direction: column;
     gap: 0.5rem;
   }
 
-  .header-flex .profile-photo img {
+  header .profile-photo {
     width: 50px;
     height: 50px;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
   }
 
   .flex-images figure {
-    flex: 0 0 100%;          /* stack side-by-side images on small screens */
+    flex: 0 0 100%;
   }
 
   .profile-photo img {
