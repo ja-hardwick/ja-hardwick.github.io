@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Project 1: Plant-sediment interactions"
+permalink: /projects/project1/
 ---
 
 
