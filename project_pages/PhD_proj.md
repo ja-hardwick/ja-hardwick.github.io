@@ -1,7 +1,7 @@
 ---
 title: "PhD Project: Fluvial Biogeomorphic Impacts of Riparian Invasive Plants"
 layout: single
-permalink:/projects/phd-invasive-riparian/
+permalink: /projects/phd-invasive-riparian/
 author_profile: true
 ---
 
