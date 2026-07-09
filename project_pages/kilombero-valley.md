@@ -1,13 +1,9 @@
 ---
-title: "PhD Project: Fluvial Biogeomorphic Impacts of Riparian Invasive Plants"
+title: "Agricultral Expansion, Climate and Geomorphic change in the Kilombero Valley Floodplain, Tanzania (2023 - present)"
 layout: single
-permalink: /projects/phd-invasive-riparian/
+permalink: /projects/kilombero-valley/
 author_profile: true
 ---
 
-*Completed December 2025*
+under construction 
 
-
-My PhD thesis explored how invasive plants species like Impatiens glandulifera (Himalayan balsam) impacted riverbank stability, erosion and sediment dynamics. Using a combined approach of field data, piecewise structural equation and landscape evolution modeling to reveal biogeomorphic impacts of plant invasions.
-
-Funded by a Newcastle University studentship.
