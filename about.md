@@ -1,7 +1,6 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
-excerpt: "About me."
 layout: single
 author_profile: true
 toc: true
