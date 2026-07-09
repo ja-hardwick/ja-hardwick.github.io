@@ -4,9 +4,6 @@ layout: single
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications
-
 ### Research Articles:  
 
 * Jackson, K., **Hardwick, J.,** Mannion, N., Potts, L., Ablett, E., Hopkins, P., Maddison, J., O'Donnell, A., Pattison, Z., Scott, S., Sikka, T., Mair, L. (Accepted).  Exploring understanding and experience of responsibilities for marginalised fieldworkers’ safety and wellbeing with recommendations for more inclusive approaches. _Journal of Academic Ethics_. 

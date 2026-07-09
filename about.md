@@ -6,9 +6,6 @@ layout: single
 author_profile: true
 toc: true
 ---
-
-## About
-
 I am an Earth scientist whose research explores how ecological processes shape and interact with Earth surface landforms, 
 particularly in fluvial environments. I use a combination of field data and modelling approaches to quantify the 
 feedbacks between plant communities and geomorphic processes. A key focus on my research is understanding 
