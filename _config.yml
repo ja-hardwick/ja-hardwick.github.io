@@ -120,7 +120,10 @@ author:
   location         : "UK"
   email            : "j.hardwick2@newcastle.ac.uk"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-links:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:j.hardwick2@newcastle.ac.uk"
     - label: "Bluesky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/jahardwick.bsky.social"
