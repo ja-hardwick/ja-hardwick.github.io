@@ -18,9 +18,9 @@ gallery:
     alt: "Workshop at ecological monitoring station"
 ---
 
-I was very lucky to be invited to go to Tanzania to look at river/overland erosion in the Kilombero Valley, 
+I was very lucky to be invited to go to Tanzania to look at river/overland erosion in the Kilombero Valley in 2022, 
 central Tanzania, as part of the [Agrisys project](https://blogs.ncl.ac.uk/marionpfeifer/projects/agrisys-tanzania/) and attended an ICUN workshop in Morogoro and visit the valley. 
-It was fascinating and as someone who initally was not intrested in the tropics I am now hooked! Following this trip and a follow up in 2025, I alongside people at Sokoine University of Agriculture, 
+It was fascinating and as someone who initally was not intrested in the tropics I am now hooked! Following this trip and a follow up in 2024, I alongside people at Sokoine University of Agriculture, 
 Newcastle University and University of Stirling have been working on several projects outlined below:
 
 
