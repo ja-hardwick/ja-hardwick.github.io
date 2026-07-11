@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/
 author_profile: true
 ---
-### [PhD Project: The Fluvial Biogeomorphic Impacts and Feedbacks of Riparian Invasive Non-Native Plant Species (2022 - 2025)](/projects/phd-invasive-riparian/)
+### [PhD Project: The Fluvial Biogeomorphic Impacts and Feedbacks of Riparian Invasive Non-Native Plant Species (2022 - 2026)](/projects/phd-invasive-riparian/)
 My thesis explores how invasive plants like Impatiens glandulifera affect riverbank erosion and sediment dynamics. Using field data and modelling reveal biogeomorphic feedbacks and stress the need for improved riparian invasives management.
 
 ### [Water of Dye Restoration (2025 - present)](/projects/water-of-dye/)
