@@ -4,9 +4,9 @@ title: "About"
 layout: single
 author_profile: true
 ---
-Hi, I'm James, an earth scientist currently working as a Postdoctoral Researcher at the University of Stirling. I'm fascinated by the interactions between vegetation and earth surface processes, especially in rivers, both in modern and ancient systems. My research combines field data and modelling approaches to quantify the feedbacks between plant communities and geomorphic processes, particularly how invasive plant species influence fluvial systems.
+Hi, I'm James, an interdisciplinary earth scientist. I’m fascinated by the interactions between plants and the earth surface, especially in rivers. My research combines fieldwork, experimental work and modelling to characterise the feedback between plants and geomorphic processes, including invasive plant species effect on river systems. 
 
-Beyond fluvial systems, I'm also interested in wider landscape processes, including how socio-ecological systems interact with geomorphic processes. My current research investigates how near-future land use change may mediate sediment loss in Tanzania, supporting climate resilience and sustainable landscape management.
+Beyond river systems, I also work on wider landscape processes including how socio-ecological systems and climate change interact with geomorphic processes such as soil loss.  Here, my current research is focused in central Tanzania assessing soil loss under different potential near-future scenarios and assessing the role agroforestry may play in increase climate resilience. 
 
-I'm also committed to making fieldwork more equitable, and work on Equity, Diversity, and Inclusion in environmental sciences research, examining and suggesting recommendations on how higher education institution policies can support — or fail to protect — marginalised fieldworkers.
+I’m also committed to making fieldwork more equitable and safe working on the EDI in environmental research along with colleagues to suggest recommendations on how high education policies can support fieldworkers. 
 

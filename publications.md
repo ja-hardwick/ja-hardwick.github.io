@@ -15,12 +15,11 @@ author_profile: true
 ### Other work:
 * **Hardwick, J.,** Pattison, Z., Galasso G., Brundu, G., Venter, T., Postigo J.L., Nunes, A. (2023) Management Measures and Cost Note: The Management of Cockayne (Crassula helmsii). International Union for Conservation of Nature (IUCN). [Link to report](https://tinyurl.com/4kwymjfz)
 
-## In preparation (< 6 months to submission):
-### Articles In preparation (< 6 months to submission)
-* Hardwick, J., Hackney, C., Pattison, Z. Evaluating the direct and indirect effects of invasive non-native riparian plant invasions on riverbank erosion. To be submitted to _Earth Surface Landforms and Processes_.
+### Articles In preparation (< 3 months to submission)
+* Hardwick, J., Shirima, D., Pfeifer, M., Seki, H., Davies, S., Pattison, Z. (submitted to *Agroforesty Systems*). Assessing the impact of climate change on key agroforestry species distribution across Tanzania, East Africa. To be submitted to _Biotropica_. 
+* Hardwick, J., Hackney, C., Pattison, Z. Evaluating the direct and indirect effects of invasive non-native riparian plant invasions on riverbank erosion. To be submitted to _Biological Invasions_.
 * Hardwick, J., Hackney, C., Pattison, Z. Plant invasions alter river channel sediment dynamics along an invasion gradient. To be submitted to _Earth Systems Dynamics_. 
-* Hardwick, J., Shirima, D., Pfeifer, M., Seki, H., Davies, S., Pattison, Z. (in prep). Assessing the impact of climate change on key agroforestry species distribution across Tanzania, East Africa. To be submitted to _Biotropica_. 
-* Hardwick, J., Hackney, C., Shirima, D.,  Pfeifer , M., Pattison, Z. Evaluating the combined impacts of agricultural land use policy and near-future climate change on soil loss across a tropical catchment. To be submitted to _CATENA_.
+* Hardwick, J., Hackney, C., Shirima, D.,  Pfeifer , M., Pattison, Z. Evaluating the combined impacts of agricultural land use policy and near-future climate change on soil loss across a tropical catchment. To be submitted to _Regional Change_.
 
 ### Other writing 
 * Invited book chapter in _Geoscience Disrupted: A Guide to Anthropocene Sediment_ on invasive plants, sediment and colonial history as evidence of global system change in the Anthropocene. 

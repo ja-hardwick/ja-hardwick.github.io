@@ -24,7 +24,7 @@ We made several recommendations: **(i)** strive for a philosophical and cultural
 **(iii)** ensure that policies and risk assessments explicitly consider how characteristics and identities intersect with risk in the field; 
 **(iv)** improve incident reporting procedures; **(v)** clearly articulate responsibilities; and **(vi)** use inclusive language that values fieldworkers and embeds their rights to safety.
 
-Open access paper can be found [here](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/2688-8319.70109)
+The open access paper can be found [here](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/2688-8319.70109)
 
 Funded through Newcastle University Enhancing Research Culture Fund
 
@@ -35,6 +35,8 @@ Funded through Newcastle University Enhancing Research Culture Fund
 **Part 2: Exploring understanding and experience of responsibilities for marginalised fieldworkers’ safety and wellbeing with recommendations for more inclusive approaches**  
 
 In the second part of this project, led by collaborators in the faculty of medical sciences we conducted a deep examination of just an anonymised single higher education institution using document analysis,
-network analysis and focus groups. 
+network analysis and focus groups. We found a persistent lack of clarity around the role that an institution has in protecting fieldworkers with responsbility alloacted to a fieldwork leader and that the emphasis for safety was put on the individual rather the system. 
 
-_Updates will be posted once accepted paper is in press._
+The open access paper can be found [here](https://link.springer.com/article/10.1007/s10805-026-09769-6)
+
+
