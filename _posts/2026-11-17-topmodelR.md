@@ -46,4 +46,4 @@ See `?topmodelR` for a glossary of every variable and parameter.
 - **Land-use-specific parameters**, letting different land covers (e.g. forest, grassland, urban) have their own parameter values.
 - **Green-Ampt infiltration**, to represent infiltration-excess runoff alongside TOPMODEL's saturation-excess runoff.
 
-It's early days (v0.0.1). Feedback, bug reports and ideas are welcome on [GitHub](https://github.com/ja-hardwick/TopmodelR).
+I'm very new to this but any feedback, bug reports and ideas are welcome on [GitHub](https://github.com/ja-hardwick/TopmodelR) - thanks!.
