@@ -2,12 +2,6 @@
 title: "topmodelR: implementation of TOPMODEL in R"
 date: 2026-11-17
 ---
----
-title: "Introducing topmodelR"
-date: 2026-11-17
-author: James Hardwick
----
-
 # Introducing topmodelR
 
 I've started building **topmodelR**, an R implementation of TOPMODEL, the classic rainfall-runoff model originally written in Fortran by [Beven (1995)](https://hess.copernicus.org/articles/25/527/2021/).
